@@ -48,7 +48,7 @@ Mi trayectoria profesional, aunque diversa, me ha brindado habilidades transferi
 Estoy abierta a nuevas conexiones y oportunidades.
 
 * [**LinkedIn**](https://www.linkedin.com/in/carolinabressan-dev)
-* Correo electrónico: bressancarolina1@gmail.com
+* Correo electrónico: carolinabressan.dev@gmail.com
 
 ---
 
